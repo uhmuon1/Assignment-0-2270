@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jovyan/assignment-0-uhmuon1/code_1/functions.cpp
+functions.hpp
+/home/jovyan/assignment-0-uhmuon1/code_1/functions.hpp
+
+/home/jovyan/assignment-0-uhmuon1/code_1/functions.hpp
+string
+-
+iostream
+-
+fstream
+-
+
